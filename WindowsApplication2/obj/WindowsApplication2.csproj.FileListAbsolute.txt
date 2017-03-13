@@ -1,0 +1,16 @@
+C:\Users\Mladen\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Mladen\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Mladen\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mladen\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Properties.Resources.resources
+C:\Users\Mladen\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.csproj.GenerateResource.Cache
+C:\Users\Mladen\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\Mladen\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\Mladen\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\Mladen\Desktop\Nova fascikla\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\Mladen\Desktop\Nova fascikla\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\Mladen\Desktop\Nova fascikla\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Mladen\Desktop\Nova fascikla\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Mladen\Desktop\Nova fascikla\WindowsApplication2\WindowsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mladen\Desktop\Nova fascikla\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\Mladen\Desktop\Nova fascikla\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Properties.Resources.resources
+C:\Users\Mladen\Desktop\Nova fascikla\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.csproj.GenerateResource.Cache
